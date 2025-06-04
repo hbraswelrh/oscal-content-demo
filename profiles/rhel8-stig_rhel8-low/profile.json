@@ -1,0 +1,56 @@
+{
+  "profile": {
+    "uuid": "6b5aaf57-3066-424b-8175-85705c3cbd40",
+    "metadata": {
+      "title": "rhel8-stig_rhel8-low",
+      "last-modified": "2025-06-04T11:59:40.333461+02:00",
+      "version": "REPLACE_ME",
+      "oscal-version": "1.1.2"
+    },
+    "imports": [
+      {
+        "href": "trestle:///home/hbraswel/GIT/trestle-workspace/catalogs/stig-rhel8/catalog.json",
+        "include-controls": [
+          {
+            "with-ids": [
+              "needed_rules",
+              "rhel-08.010171",
+              "rhel-08.010292",
+              "rhel-08.010375",
+              "rhel-08.010376",
+              "rhel-08.010440",
+              "rhel-08.010471",
+              "rhel-08.010472",
+              "rhel-08.010540",
+              "rhel-08.010541",
+              "rhel-08.010542",
+              "rhel-08.020024",
+              "rhel-08.020340",
+              "rhel-08.030063",
+              "rhel-08.030601",
+              "rhel-08.030602",
+              "rhel-08.030603",
+              "rhel-08.030741",
+              "rhel-08.030742",
+              "rhel-08.040004",
+              "rhel-08.040021",
+              "rhel-08.040022",
+              "rhel-08.040023",
+              "rhel-08.040024",
+              "rhel-08.040025",
+              "rhel-08.040026",
+              "rhel-08.040300",
+              "rhel-08.040310"
+            ]
+          }
+        ]
+      }
+    ],
+    "merge": {
+      "combine": {
+        "method": "merge"
+      },
+      "as-is": true
+    }
+  }
+}

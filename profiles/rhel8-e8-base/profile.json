@@ -1,0 +1,36 @@
+{
+  "profile": {
+    "uuid": "fb46151a-b3cb-44f6-8ec5-78e10e599d50",
+    "metadata": {
+      "title": "rhel8-e8-base",
+      "last-modified": "2025-06-04T11:57:34.132374+02:00",
+      "version": "REPLACE_ME",
+      "oscal-version": "1.1.2"
+    },
+    "imports": [
+      {
+        "href": "trestle:///home/hbraswel/GIT/trestle-workspace/catalogs/e8-rhel8/catalog.json",
+        "include-controls": [
+          {
+            "with-ids": [
+              "app_control",
+              "app_hardening",
+              "backups",
+              "hardening",
+              "mfa",
+              "patching",
+              "restrict_admin",
+              "restrict_macros"
+            ]
+          }
+        ]
+      }
+    ],
+    "merge": {
+      "combine": {
+        "method": "merge"
+      },
+      "as-is": true
+    }
+  }
+}

@@ -47,5 +47,5 @@ jobs:
           file_patterns: "*.json,markdown/*,rules/*"
           github_token: ${{ secrets.GITHUB_TOKEN }}
           component_type: ${{ github.event.inputs.component_type }}
-          pull_request_title: "Adds ${{ github.event.inputs.component_title }} to ${{ github.event.inputs.component_definition_name }} component definition."
+         # pull_request_title: "Adds ${{ github.event.inputs.component_title }} to ${{ github.event.inputs.component_definition_name }} component definition."
           filter_by_profile: ${{ github.event.inputs.filter_by_profile }}

@@ -7,28 +7,29 @@
   - [Prerequisites](#prerequisites)
 - [Usage](#usage)
   - [Basic Usage](#basic-usage)
-  - [Advanced Usage](#advanced-advanced-usage)
+  - [Dev Usage](#dev-usage)
 - [File Structure](#file-structure)
 - [Testing](#testing)
   - [How to Configure](#how-to-contribute)
-  - [Code of Conduct](#code-of-conduct)
 - [Support](#support)
 
 ---
 
 ## Introduction
 
-## Features
+## Features 🔹
 
-## Installation
+## Installation 
 
-### Prerequisites
+### Prerequisites 
 
 ## Usage
 
-## File Structure
+#### Dev Usage
 
-## Testing
+## File Structure 
+
+## Testing 
 
 ### How to Configure
 

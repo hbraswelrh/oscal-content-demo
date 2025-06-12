@@ -31,16 +31,16 @@
    
    <img alt="img.png" height="95" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/newPR.png" width="300"/>
    
-   <img alt="img.png" height="100" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create_PULL.png" width="350"/>
+   <img alt="img.png" height="70" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create_PULL.png" width="250"/>
    
    
    - Make sure that the `compare: develop` branch is being compared to the `base:main` branch.
    
-   <img alt="img.png" height="80" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create_PULL.png" width="250"/>
+   <img alt="img.png" height="70" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create_PULL.png" width="250"/>
 
    - You should see your recently changed `README.md` as part of the pull request.
    
-   <img alt="img.png" height="60" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/viewPR.png" width="300"/>
+   <img alt="img.png" height="60" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/viewPR.png" width="350"/>
    
 ##### Pull Request Body
 

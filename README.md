@@ -33,7 +33,8 @@
    
    <img alt="img.png" height="100" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/newPR.png" width="150"/>
    
-   <img alt="img.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/img.png" width="250"/>
+   <img alt="img.png" height="100" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/img.png" width="150"/>
+   
    - Make sure that the `compare: develop` branch is being compared to the `base:main` branch.
    - You should see your recently changed `README.md` as part of the pull request.
    

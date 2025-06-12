@@ -104,6 +104,15 @@ The GitHub Actions available will allow you to create OSCAL Component Definition
      
    <img alt="img.png" height="400" src="https://github.com/hbraswelrh/trestle-workspace/blob/7492e400d5709d29c030fe39badff15bcc0a8e81/assets/img/workflow_entry.png" width="200"/>
 
+Example inputs for the [Create a Component Definition](https://github.com/hbraswelrh/trestle-workspace/actions/workflows/create-cd.yml) workflow in the trestle-workspace
+
+`profile:` [my-profile](https://github.com/hbraswelrh/trestle-workspace/blob/main/profiles/my-profile/profile.json)
+`component definition name:` [rhel10-anssi-high](https://github.com/hbraswelrh/trestle-workspace/blob/main/component-definitions/rhel10/rhel10-anssi-high/component-definition.json)
+`component in generated component definition:` "Rule_Id"
+`component type:` "software"
+`description of the component in the component definition:` "Red Hat Enterprise Linux 10"
+`filtering by profile:` *intentionally left blank*
+
 ## Installation 
 
 ### Prerequisites 

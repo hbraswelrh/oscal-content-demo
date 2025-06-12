@@ -54,32 +54,33 @@ Notice the _Write_ and _Preview_ tabs. Markdown format is present in the _Write_
 
 [//]: # (< img alt="img.png" height="250" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/learning-course.png" width="230"/>)
 
-##### Create the PR :yay:
+##### Create the PR :tada:
 
-Click the green "Create pull request" button. Then, the page should automatically refresh and look like this: 
+Click the green "Create pull request" button :white_check_mark:. Then, the page should automatically refresh and look like this: 
   
-  <img alt="img.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create-PR.png" width="400"/>
+  <img alt="img.png" height="30" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create-PR.png" width="400"/>
 
   <img alt="img.png" height="200" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/PRBODY.png" width="300"/>
 
+[//]: # (<img alt="img.png" height="240" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/PR.png" width="250"/>)
 
 
-<img alt="img.png" height="240" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/PR.png" width="250"/>
+##### Interacting with the Pull Request 
 
+_Bookmark the page...:bookmark:_
 
-##### Interacting with the Pull Request
-The new PR `feat: learning course tracker {YOUR_NAME}` will be available in your copy of the trestle-workspace.
+The new PR `feat: learning course tracker {YOUR_NAME}` will be available in your copy of the trestle-workspace. :closed_lock_with_key:
 
 <img alt="img.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/WORKSPACE_PR.png" width="490"/>
 
-The comment section allows for asking questions, making changes, and referencing those changes in your work. 
+The comment section allows for asking questions, making changes, and referencing those changes in your work. :incoming_envelope:
 
 > Example comment: "@hbraswelrh I need help with my PR!!"
 
 <img alt="img_1.png" height="200" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/PR_COMMENT.png" width="300"/>
 
 
-#### Using the `develop` branch to track your progress
+#### Using the `develop` branch to track your progress 
 
 #### What to submit
 

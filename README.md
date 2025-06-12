@@ -2,13 +2,17 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
+  - [Tracking Progress](#tracking-your-progress-in-a-pr-octocat)
+  - [What to Expect](#pull-request-body)
+  - [Creating the PR](#create-the-pr-tada)
+  - [Interacting with the PR](#interacting-with-the-pull-request-)
+  - [What to Submit](#what-to-submit)
 - [Features](#features)
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
 - [Usage](#usage)
   - [Basic Usage](#basic-usage)
   - [Dev Usage](#dev-usage)
-- [File Structure](#file-structure)
 - [Testing](#testing)
   - [How to Configure](#how-to-contribute)
 - [Support](#support)
@@ -16,7 +20,7 @@
 ---
 ## Introduction
 
-##### Tracking your progress in a PR :octocat:
+#### Tracking your progress in a PR :octocat:
 
 1. Switch from the trestle-workspace `main` branch to the trestle-workspace `develop` branch.
 
@@ -40,7 +44,7 @@
    
    <img alt="img.png" height="60" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/viewPR.png" width="500"/>
    
-##### Pull Request Body
+#### Pull Request Body
 
 The "New Pull Request" will take the changes you made to the `README.md` and place those in a history log. Then, that log will be proposed to be merged to the `main` branch of the repository.
 
@@ -52,7 +56,7 @@ Notice the _Write_ and _Preview_ tabs. Markdown format is present in the _Write_
 
 [//]: # (< img alt="img.png" height="250" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/learning-course.png" width="230"/>)
 
-##### Create the PR :tada:
+#### Create the PR :tada:
 
 Click the green "Create pull request" button :white_check_mark:. Then, the page should automatically refresh and look like this: 
   
@@ -63,7 +67,7 @@ Click the green "Create pull request" button :white_check_mark:. Then, the page 
 [//]: # (<img alt="img.png" height="240" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/PR.png" width="250"/>)
 
 
-##### Interacting with the Pull Request 
+#### Interacting with the Pull Request 
 
 _Bookmark the page..._ :bookmark:
 
@@ -77,8 +81,6 @@ The comment section allows for asking questions, making changes, and referencing
 
 <img alt="img_1.png" height="200" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/PR_COMMENT.png" width="300"/>
 
-
-#### Using the `develop` branch to track your progress 
 
 #### What to submit
 
@@ -94,8 +96,6 @@ The quiz can be found [here](assets/self_assessment/self_assessment.md)
 ## Usage
 
 #### Dev Usage
-
-## File Structure 
 
 ## Testing 
 

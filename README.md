@@ -29,13 +29,10 @@
 3. Go to the Pull Requests tab and click the green "New Pull Request" button.
 
    
-   <img alt="img.png" height="95" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/newPR.png" width="320"/>
-   
-   <img alt="img.png" height="55" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create_PULL.png" width="600"/>
-   
-   
    - Make sure that the `compare: develop` branch is being compared to the `base:main` branch.
    
+   <img alt="img.png" height="95" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/newPR.png" width="320"/>
+
    <img alt="img.png" height="55" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create_PULL.png" width="600"/>
 
    - You should see your recently changed `README.md` as part of the pull request.

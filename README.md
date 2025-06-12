@@ -64,13 +64,13 @@ Click the green "Create pull request" button :white_check_mark:. Then, the page 
 
 #### Interacting with the Pull Request 
 
-_Bookmark the page..._ :bookmark:
+:bookmark: _Bookmark the page..._
 
 The new PR `feat: learning course tracker {YOUR_NAME}` will be available in your copy of the trestle-workspace. :closed_lock_with_key:
 
 <img alt="img.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/WORKSPACE_PR.png" width="490"/>
 
-The comment section allows for asking questions, making changes, and referencing those changes in your work. :incoming_envelope:
+:incoming_envelope: The comment section allows for asking questions, making changes, and referencing those changes in your work.
 
 > Example comment: "@hbraswelrh I need help with my PR!!"
 

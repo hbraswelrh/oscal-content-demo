@@ -91,7 +91,7 @@ You can manually update an OSCAL Component Definition in the `component-definiti
 
 The GitHub Actions available will allow you to create OSCAL Component Definitions using the `workflow_dispatch` functionality.
 
-##### Steps:
+##### :world_map: Steps:
 
 1. Navigate to the Actions tab in your trestle-workspace.
 2. Click the action in the top left corner that is named [Create a Component Definition](https://github.com/hbraswelrh/trestle-workspace/actions/workflows/create-cd.yml).

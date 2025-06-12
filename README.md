@@ -54,17 +54,12 @@ Notice the _Write_ and _Preview_ tabs. Markdown format is present in the _Write_
 
 <img alt="img.png" height="250" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/pretty_md.png" width="230"/> <img alt="img.png" height="250" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/learning-course.png" width="230"/>
 
-[//]: # (< img alt="img.png" height="250" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/learning-course.png" width="230"/>)
 
 #### Create the PR :tada:
 
 Click the green "Create pull request" button :white_check_mark:. Then, the page should automatically refresh and look like this: 
-  
-  <img alt="img.png" height="30" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create-PR.png" width="400"/>
 
   <img alt="img.png" height="200" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/PRBODY.png" width="300"/>
-
-[//]: # (<img alt="img.png" height="240" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/PR.png" width="250"/>)
 
 
 #### Interacting with the Pull Request 
@@ -107,7 +102,8 @@ The GitHub Actions available will allow you to create OSCAL Component Definition
    - Type of component (e.g., service, policy, physical, validation, etc. ).
    - Description of the component in the generate component definition.
    - Filter the component definition control by a separate profile.
-     <img alt="img.png" height="150" src="https://github.com/hbraswelrh/trestle-workspace/blob/7492e400d5709d29c030fe39badff15bcc0a8e81/assets/img/workflow_entry.png" width="100"/>
+     
+   <img alt="img.png" height="150" src="https://github.com/hbraswelrh/trestle-workspace/blob/7492e400d5709d29c030fe39badff15bcc0a8e81/assets/img/workflow_entry.png" width="100"/>
 
 ## Installation 
 

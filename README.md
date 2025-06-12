@@ -20,39 +20,43 @@
 
 1. Switch from the trestle-workspace `main` branch to the trestle-workspace `develop` branch.
 
-<img alt="branches.png" height="100" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/branches.png" width="150"/>
+    <img alt="branches.png" height="100" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/branches.png" width="150"/>
 
-2. Make a change to the README.md to include your name. Click "Commit Changes."
+2. Make a change to the `README.md` to include your name. Click "Commit Changes..."
 
    <img alt="readmechange.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/readmechange.png" width="250"/>
-   
-   <img alt="img.png" height="100" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/img.png" width="150"/>
 
 3. Go to the Pull Requests tab and click the green "New Pull Request" button.
 
-   <img alt="img.png" height="100" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/img.png" width="150"/>
    
    <img alt="img.png" height="95" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/newPR.png" width="300"/>
    
-   <img alt="img.png" height="100" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/img.png" width="150"/>
+   <img alt="img.png" height="95" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create_PULL.png" width="300"/>
+   
    
    - Make sure that the `compare: develop` branch is being compared to the `base:main` branch.
-   - You should see your recently changed `README.md` as part of the pull request.
-   
-   <img alt="img.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/viewPR.png" width="250"/>
    
    <img alt="img.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create_PULL.png" width="250"/>
+
+   - You should see your recently changed `README.md` as part of the pull request.
+   
+   <img alt="img.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/viewPR.png" width="300"/>
+   
+##### Pull Request Body
+
+The "New Pull Request" will take the changes you made to the `README.md` and place those in a history log. Then, that log will be proposed to be merged to the `main` branch of the repository.
+
+- You can update the Summary to include the changes you made. The other fields are for later. 
 
 <img alt="img.png" height="250" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/pretty_md.png" width="250"/>
 
 <img alt="img.png" height="250" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/learning-course.png" width="250"/>
 
-<img alt="img.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create-PR.png" width="200"/>
+<img alt="img.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create-PR.png" width="250"/>
 
-<img alt="img.png" height="200" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/PRBODY.png" width="375"/>
+<img alt="img.png" height="200" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/PRBODY.png" width="350"/>
 
 
-<img alt="branches.png" height="200" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/branches.png" width="200"/>
 
 <img alt="img.png" height="300" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/PR.png" width="150"/>
 

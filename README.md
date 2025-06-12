@@ -1,13 +1,13 @@
 ## trestle-workspace 🤖
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Getting started](#introduction)
   - [Tracking Progress](#tracking-your-progress-in-a-pr-octocat)
   - [What to Expect](#pull-request-body)
   - [Creating the PR](#create-the-pr-tada)
   - [Interacting with the PR](#interacting-with-the-pull-request-)
-  - [What to Submit](#what-to-submit)
-- [Features](#features)
+  - [What you'll Submit](#what-youll-submit)
+- [Testing it out](#test-it-out)
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
 - [Usage](#usage)
@@ -18,7 +18,7 @@
 - [Support](#support)
 
 ---
-## Introduction
+## Getting Started
 
 #### Tracking your progress in a PR :octocat:
 
@@ -82,12 +82,32 @@ The comment section allows for asking questions, making changes, and referencing
 <img alt="img_1.png" height="200" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/PR_COMMENT.png" width="300"/>
 
 
-#### What to submit
+#### What you'll submit
 
-To submit your progress using the `trestle-workspace`, include the link to the PR you opened in the steps above. 
-The quiz can be found [here](assets/self_assessment/self_assessment.md)
+To submit your progress and changes made in the `trestle-workspace`, include the link to the new PR you created in the quiz found [here](assets/self_assessment/self_assessment.md). 
 
-## Features 🔹
+## Test it Out
+
+#### Manually updating an OSCAL Component Definition
+
+You can manually update an OSCAL Component Definition in the `component-definitions` folder of the trestle-workspace.
+
+#### Leveraging GitHub Actions to author Component Definitions
+
+The GitHub Actions available will allow you to create OSCAL Component Definitions using the `workflow_dispatch` functionality.
+
+##### Steps:
+
+1. Navigate to the Actions tab in your trestle-workspace.
+2. Click the action in the top left corner that is named [Create a Component Definition](https://github.com/hbraswelrh/trestle-workspace/actions/workflows/create-cd.yml).
+3. Click "Run workflow." There should be a box populated that requests the following inputs:
+   - Name of profile in trestle workspace to be imported into the component definition. 
+   - Name of component definition to create.
+   - Name of the component in the generated component definition.
+   - Type of component (e.g., service, policy, physical, validation, etc. ).
+   - Description of the component in the generate component definition.
+   - Filter the component definition control by a separate profile.
+     <img alt="img.png" height="150" src="img.png" width="100"/>
 
 ## Installation 
 

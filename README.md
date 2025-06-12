@@ -67,7 +67,7 @@ Click the green "Create pull request" button :white_check_mark:. Then, the page 
 
 ##### Interacting with the Pull Request 
 
-_Bookmark the page...:bookmark:_
+_Bookmark the page..._ :bookmark:
 
 The new PR `feat: learning course tracker {YOUR_NAME}` will be available in your copy of the trestle-workspace. :closed_lock_with_key:
 

@@ -19,13 +19,14 @@
 ##### Tracking your progress in a PR :octocat:
 
 1. Switch from the trestle-workspace `main` branch to the trestle-workspace `develop` branch.
-<img alt="branches.png" height="40" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/branches.png" width="200"/>
+<img alt="branches.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/branches.png" width="250"/>
 
 2. Make a change to the README.md to include your name. Click "Commit Changes."
    <img alt="readmechange.png" height="120" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/readmechange.png" width="150"/>
    <img alt="img.png" height="250" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/img.png" width="85"/>
 
 3. Go to the Pull Requests tab and click the green "New Pull Request" button.
+4. 
    <img alt="img.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/img.png" width="250"/>
    <img alt="img.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/newPR.png" width="250"/>
    <img alt="img.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/img.png" width="250"/>

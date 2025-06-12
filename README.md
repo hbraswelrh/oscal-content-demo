@@ -25,7 +25,7 @@
 2. Make a change to the README.md to include your name. Click "Commit Changes."
 
    <img alt="readmechange.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/readmechange.png" width="250"/>
-   <img alt="img.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/img.png" width="250"/>
+   <img alt="img.png" height="85" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/img.png" width="200"/>
 
 3. Go to the Pull Requests tab and click the green "New Pull Request" button.
 

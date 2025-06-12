@@ -107,7 +107,7 @@ The GitHub Actions available will allow you to create OSCAL Component Definition
    - Type of component (e.g., service, policy, physical, validation, etc. ).
    - Description of the component in the generate component definition.
    - Filter the component definition control by a separate profile.
-     <img alt="img.png" height="150" src="img.png" width="100"/>
+     <img alt="img.png" height="150" src="https://github.com/hbraswelrh/trestle-workspace/blob/7492e400d5709d29c030fe39badff15bcc0a8e81/assets/img/workflow_entry.png" width="100"/>
 
 ## Installation 
 

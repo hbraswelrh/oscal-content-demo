@@ -103,7 +103,7 @@ The GitHub Actions available will allow you to create OSCAL Component Definition
    - Description of the component in the generate component definition.
    - Filter the component definition control by a separate profile.
      
-   <img alt="img.png" height="400" src="https://github.com/hbraswelrh/trestle-workspace/blob/7492e400d5709d29c030fe39badff15bcc0a8e81/assets/img/workflow_entry.png" width="225"/>
+   <img alt="img.png" height="400" src="https://github.com/hbraswelrh/trestle-workspace/blob/7492e400d5709d29c030fe39badff15bcc0a8e81/assets/img/workflow_entry.png" width="200"/>
 
 ## Installation 
 

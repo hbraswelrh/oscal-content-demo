@@ -2,61 +2,72 @@
 
 ## Table of Contents
 - [Getting started](#introduction)
-  - [Tracking Progress](#tracking-your-progress-in-a-pr-octocat)
+  - [Tracking Progress](#tracking-your-course-progress-in-a-pr-octocat)
+- [Deep Dive](#deep-dive)
   - [What to Expect](#pull-request-body)
-  - [Creating the PR](#create-the-pr-tada)
+  - [Creating the PR](#creating-the-pr-tada)
   - [Interacting with the PR](#interacting-with-the-pull-request-)
-  - [What you'll Submit](#what-youll-submit)
-- [Testing it out](#test-it-out)
-  - [Manually updating the Component Definitions](#manually-updating-an-oscal-component-definition)
-  - [Leveraging GitHub Actions](#leveraging-github-actions-to-author-component-definitions)
-- [Installation](#installation)
-  - [Prerequisites](#prerequisites)
 - [Usage](#usage)
-  - [Basic Usage](#basic-usage)
+  - [Basic Usage](#using-the-trestle-workspace)
+    - [Manually updating the Component Definitions](#manually-updating-an-oscal-component-definition)
+    - [Leveraging GitHub Actions](#leveraging-github-actions-to-author-component-definitions-octocat)
+      - [Steps](#world_map-steps)   
   - [Dev Usage](#dev-usage)
-- [Testing](#testing)
-  - [How to Configure](#how-to-contribute)
 - [Support](#support)
+  - [Resources](#resources) 
 
 ---
 ## Getting Started
 
-#### Tracking your progress in a PR :octocat:
+#### Tracking your course progress in a PR :octocat:
 
-1. Switch from the `trestle-workspace` `main` branch to `develop`. Use the `develop` branch for all changes intended for your final Pull Request.
+1. **Switch to the `develop` Branch:**  
+   * In your `trestle-workspace` repository, navigate to the "Branches" tab or use the dropdown menu.  
+   * Switch from the `main` branch to the `develop` branch.  
+   * All your course changes will be made on this `develop` branch.
 
     <img alt="branches.png" height="100" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/branches.png" width="150"/>
 
-2. Make a change to the `README.md` to include your name. Click "Commit Changes..."
-
+2. **Make Your First Change:**  
+   * Edit the `README.md` file in your `develop` branch to include your name.  
+   * Commit your changes directly to the `develop` branch by clicking "Commit Changes."
+   
    <img alt="readmechange.png" height="80" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/readmechange.png" width="250"/>
 
-3. Go to the Pull Requests tab and click the green "New Pull Request" button.
-
-   
-- Make sure that the `compare: develop` branch is being compared to the `base:main` branch.
-   
-
+3. **Create Your Pull Request (PR):**  
+   * Go to the "Pull Requests" tab in your repository.  
+   * Click the "New Pull Request" button.  
+   * Ensure the comparison is set to: `base: main` **\<--** `compare: develop`.  
+   * You should see your `README.md` change listed in the file differences.  
+   * Provide a descriptive title for your PR (e.g., `feat: My First Course Submission - [Your Name]`).  
+   * Click "Create pull request."
 
    <img alt="img.png" height="55" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create_PULL.png" width="600"/>
 
    - You should see your recently changed `README.md` as part of the pull request.
    
    <img alt="img.png" height="60" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/viewPR.png" width="500"/>
-   
+
+4. **Submit Evidence of Completion:**  
+   * Once your Pull Request is created, copy its unique URL from your browser's address bar.  
+   * Paste the URL into the designated field of the [self-assessment](assets/self_assessment/self_assessment.md). This PR link serves as your evidence of attempting the `trestle-workspace` course activities. 🎉
+
+5. **Interact and Learn (Optional but Recommended):**  
+   * Bookmark your PR page. :bookmark:
+   * Use the "Comments" section within your PR to ask questions or make notes about your progress. This is a great way to engage with the material and receive support. 💬
+  
+## Deep Dive 
+
 #### Pull Request Body
 
 The "New Pull Request" will take the changes you made to the `README.md` and place those in a history log. Then, that log will be proposed to be merged to the `main` branch of the repository.
 
-- You can update the Summary to include the changes you made. The other fields are for later. 
-
-Notice the _Write_ and _Preview_ tabs. Markdown format is present in the _Write_ tab. Check your work using _Preview_. 
+Notice the _Write_ and _Preview_ tabs. Markdown format is present in the _Write_ tab. Check your mardown plain text using _Preview_. 
 
 <img alt="img.png" height="250" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/pretty_md.png" width="230"/> <img alt="img.png" height="250" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/learning-course.png" width="230"/>
 
 
-#### Create the PR :tada:
+#### Creating the PR :tada:
 
 Click the green "Create pull request" button :white_check_mark:. Then, the page should automatically refresh and look like this: 
 
@@ -77,20 +88,22 @@ The new PR `feat: learning course tracker {YOUR_NAME}` will be available in your
 
 <img alt="img_1.png" height="200" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/PR_COMMENT.png" width="300"/>
 
-
 #### What you'll submit
 
 To submit your progress and changes made in the `trestle-workspace`, include the link to the new PR you created in the quiz found [here](assets/self_assessment/self_assessment.md). 
 
-## Test it Out
+## Usage
 
-#### Manually updating an OSCAL Component Definition
+### Using the trestle-workspace
 
-You can manually update an OSCAL Component Definition in the `component-definitions` folder of the trestle-workspace.
+> #### Manually updating an OSCAL Component Definition
 
-#### Leveraging GitHub Actions to author Component Definitions
+> You can manually update an OSCAL Component Definition in the `component-definitions` folder of the trestle-workspace.
+<img alt="compdef_folder.img" height="200" src="https://github.com/user-attachments/assets/8085baa4-e3a9-4d2b-bd4a-5e81dc545017" width="400"/>
 
-The GitHub Actions available will allow you to create OSCAL Component Definitions using the `workflow_dispatch` functionality.
+> #### Leveraging GitHub Actions to author Component Definitions :octocat:
+
+> The GitHub Actions available will allow you to create OSCAL Component Definitions using the `workflow_dispatch` functionality.
 
 ##### :world_map: Steps:
 
@@ -120,16 +133,13 @@ The GitHub Actions available will allow you to create OSCAL Component Definition
 
 `filtering by profile:` *intentionally left blank*
 
-## Installation 
-
-### Prerequisites 
-
-## Usage
-
 #### Dev Usage
 
-## Testing 
-
-### How to Configure
-
 ## Support 
+
+#### Resources
+
+Reference the [GLOSSARY.md](https://github.com/hbraswelrh/creme-brulee/blob/main/docs/GLOSSARY.md) in the creme-brulee learning course.
+Using Pull Requests in GitHub to track interaction with a project. 
+
+

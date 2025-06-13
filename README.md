@@ -4,7 +4,7 @@
 - [Getting started](#introduction)
   - [Tracking Progress](#tracking-your-course-progress-in-a-pr-octocat)
 - [Deep Dive](#deep-dive)
-  - [What to Expect](#pull-request-body)
+  - [What it should look like](#pull-request-body)
   - [Creating the PR](#creating-the-pr-tada)
   - [Interacting with the PR](#interacting-with-the-pull-request-)
 - [Usage](#usage)

@@ -24,7 +24,7 @@
 
 #### Tracking your progress in a PR :octocat:
 
-1. Switch from the trestle-workspace `main` branch to the trestle-workspace `develop` branch.
+1. Switch from the `trestle-workspace` `main` branch to `develop`. Use the `develop` branch for all changes intended for your final Pull Request.
 
     <img alt="branches.png" height="100" src="https://github.com/hbraswelrh/trestle-workspace/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/branches.png" width="150"/>
 

@@ -11,9 +11,7 @@
   - [Basic Usage](#using-the-trestle-workspace)
     - [Manually updating the Component Definitions](#manually-updating-an-oscal-component-definition)
     - [Leveraging GitHub Actions](#leveraging-github-actions-to-author-component-definitions-octocat)
-      - [Steps](#world_map-steps)   
-  - [Dev Usage](#dev-usage)
-- [Support](#support-)
+      - [Steps](#world_map-steps)
   - [Resources](#resources) 
 
 ---
@@ -136,13 +134,10 @@ To submit your progress and changes made in the `oscal-content-demo`, include th
 
 `filtering by profile:` *intentionally left blank*
 
-#### Dev Usage
-
-## Support 
-
 #### Resources
 
 Reference the [GLOSSARY.md](https://github.com/hbraswelrh/creme-brulee/blob/main/docs/GLOSSARY.md) in the creme-brulee learning course.
-Using Pull Requests in GitHub to track interaction with a project. 
+
+The [oscal-content](https://github.com/ComplianceAsCode/oscal-content) repository in the ComplianceAsCode organization will follow this learning course. 
 
 

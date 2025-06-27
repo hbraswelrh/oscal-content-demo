@@ -102,9 +102,7 @@ To submit your progress and changes made in the `oscal-content-demo`, include th
 
 > You can manually update an OSCAL Component Definition in the `component-definitions` folder of the oscal-content-demo.
 
-<img alt="compdef_folder.img" height="200" src="https://github.com/user-attachments/assets/8085baa4-e3a9-4d2b-bd4a-5e81dc545017" width="400"/>
-
-<img alt="img.png" height="200" src="https://github.com/user-attachments/assets/img/newone4.png" width="400"/>
+<img alt="img.png" height="200" src="https://github.com/hbraswelrh/oscal-content-demo/blob/main/assets/img/newone4.png" width="400"/>
 
 > #### Leveraging GitHub Actions to author Component Definitions :octocat:
 

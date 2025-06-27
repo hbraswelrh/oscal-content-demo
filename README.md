@@ -1,9 +1,9 @@
 ## oscal-content-demo
 
 ## Table of Contents
-- [Getting started](#introduction)
+- [Getting started](#getting-started)
   - [Tracking Progress](#tracking-your-course-progress-in-a-pr-octocat)
-- [Deep Dive](#deep-dive)
+- [Deep Dive](#deep-dive-)
   - [What it should look like](#pull-request-body)
   - [Creating the PR](#creating-the-pr-tada)
   - [Interacting with the PR](#interacting-with-the-pull-request-)
@@ -13,7 +13,7 @@
     - [Leveraging GitHub Actions](#leveraging-github-actions-to-author-component-definitions-octocat)
       - [Steps](#world_map-steps)   
   - [Dev Usage](#dev-usage)
-- [Support](#support)
+- [Support](#support-)
   - [Resources](#resources) 
 
 ---
@@ -26,13 +26,13 @@
    * Switch from the `main` branch to the `develop` branch.  
    * All your course changes will be made on this `develop` branch.
 
-    <img alt="branches.png" height="100" src="https://github.com/hbraswelrh/oscal-content-demo/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/branches.png" width="150"/>
+<img alt="idk.png" height="100" width="150" src="https://github.com/hbraswelrh/oscal-content-demo/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/branches.png">
 
 2. **Make Your First Change:**  
    * Edit the `README.md` file in your `develop` branch to include your name.  
    * Commit your changes directly to the `develop` branch by clicking "Commit Changes."
    
-   <img alt="readmechange.png" height="80" src="https://github.com/hbraswelrh/oscal-content-demo/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/readmechange.png" width="250"/>
+<img alt="branches.png" height="130" src="https://github.com/hbraswelrh/oscal-content-demo/blob/main/assets/img/newone.png" width="390"/>
 
 3. **Create Your Pull Request (PR):**  
    * Go to the "Pull Requests" tab in your repository.  
@@ -42,11 +42,13 @@
    * Provide a descriptive title for your PR (e.g., `feat: My First Course Submission - [Your Name]`).  
    * Click "Create pull request."
 
-   <img alt="img.png" height="55" src="https://github.com/hbraswelrh/oscal-content-demo/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create_PULL.png" width="600"/>
+<img alt="img.png" height="50" src="https://github.com/hbraswelrh/oscal-content-demo/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/create_PULL.png" width="590"/>
 
    - You should see your recently changed `README.md` as part of the pull request.
    
-   <img alt="img.png" height="60" src="https://github.com/hbraswelrh/oscal-content-demo/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/viewPR.png" width="500"/>
+<img alt="img.png" height="58" src="https://github.com/hbraswelrh/oscal-content-demo/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/viewPR.png" width="500"/>
+
+<img alt="img.png" height="300" src="https://github.com/hbraswelrh/oscal-content-demo/blob/main/assets/img/newone3.png" width="400"/>
 
 4. **Submit Evidence of Completion:**  
    * Once your Pull Request is created, copy its unique URL from your browser's address bar.  
@@ -62,7 +64,7 @@
 
 The "New Pull Request" will take the changes you made to the `README.md` and place those in a history log. Then, that log will be proposed to be merged to the `main` branch of the repository.
 
-Notice the _Write_ and _Preview_ tabs. Markdown format is present in the _Write_ tab. Check your mardown plain text using _Preview_. 
+Notice the _Write_ and _Preview_ tabs. Markdown format is present in the _Write_ tab. Check your markdown plain text using _Preview_. 
 
 <img alt="img.png" height="250" src="https://github.com/hbraswelrh/oscal-content-demo/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/pretty_md.png" width="230"/> <img alt="img.png" height="250" src="https://github.com/hbraswelrh/oscal-content-demo/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/learning-course.png" width="230"/>
 
@@ -71,7 +73,7 @@ Notice the _Write_ and _Preview_ tabs. Markdown format is present in the _Write_
 
 Click the green "Create pull request" button :white_check_mark:. Then, the page should automatically refresh and look like this: 
 
-  <img alt="img.png" height="200" src="https://github.com/hbraswelrh/oscal-content-demo/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/PRBODY.png" width="300"/>
+<img alt="img.png" height="300" src="https://github.com/hbraswelrh/oscal-content-demo/blob/main/assets/img/newone3.png" width="500"/>
 
 
 #### Interacting with the Pull Request 
@@ -80,7 +82,8 @@ Click the green "Create pull request" button :white_check_mark:. Then, the page 
 
 The new PR `feat: learning course tracker {YOUR_NAME}` will be available in your copy of the oscal-content-demo. :closed_lock_with_key:
 
-<img alt="img.png" height="85" src="https://github.com/hbraswelrh/oscal-content-demo/blob/9ef7608ec8c0599a90f1b85d1a3de8259ca9d3a3/assets/img/WORKSPACE_PR.png" width="490"/>
+
+<img alt="img.png" height="85" src="https://github.com/hbraswelrh/oscal-content-demo/blob/main/assets/img/newone2.png" width="490"/>
 
 :incoming_envelope: The comment section allows for asking questions, making changes, and referencing those changes in your work.
 
